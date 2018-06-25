@@ -2,6 +2,8 @@
 ## Programming Langauge
 **C**
 
+**C++**
+
 **Python**
 
 **Java**
