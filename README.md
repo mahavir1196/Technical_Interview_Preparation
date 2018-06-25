@@ -1,1 +1,9 @@
-# Technical_Interview_Preparation
+# Technical Interview Preparation
+## Data Structures
+**Array**
+
+**LinkedList**
+
+**Stack**
+
+**Queue**
