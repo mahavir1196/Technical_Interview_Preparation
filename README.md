@@ -1,16 +1,14 @@
 # Technical Interview Preparation
 ## Programming Langauge
-**C**
+**C** - Must Known Language for Every Developer
 
-**C++**
-
-**Python**
+**Python** - Best For Technical Interview
 
 **Java**
 
-**Swift/Obj-C - iOS Developer**
+**Swift/Obj-C - iOS Developer** - If you’re applying for iOS Engineer Role
 
-**Javascript - Front-End Developers**
+**Javascript - Front-End Developers** - If you’re applying for Front-End Role
 
 ## Data Structures
 * **Array**
